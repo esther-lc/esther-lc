@@ -119,11 +119,13 @@
 
 # 🏆 Achievements
 
-🤖 Minor in Robotics and Automation
-🗣️ Completed all 8 levels of Hindi proficiency (Dakshina Bharat Hindi Prachar Sabha)
-🧩 Solved 300+ coding problems across LeetCode, GeeksforGeeks, and Coding Ninjas
-📈 15% ML model accuracy improvement via hyperparameter tuning at INNOVATE INTERN
-🎓 CGPA 8.72/10, SASTRA University
+<p align="left">
+  <img src="https://img.shields.io/badge/🤖_Robotics-Minor-6C3483?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🗣️_Hindi-8_Levels_Completed-2E86C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧩_Coding_Problems-300+-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📈_ML_Accuracy-+15%25-E67E22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎓_CGPA-8.72%2F10-C0392B?style=for-the-badge"/>
+</p>
 
 ---
 
